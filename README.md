@@ -2,5 +2,5 @@
 
 ## config file
 
-windows: %APPDATA%/mpv/
-linux: ~/.config/mpv/
+windows: `%APPDATA%/mpv/`\
+linux: `~/.config/mpv/`
